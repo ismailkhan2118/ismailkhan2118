@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <br/>
 <br/>
-### Feel free to Connect with Me <a href="https://www.linkedin.com/in/ismail-khan-33916b184/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!---
 ismailkhan2118/ismailkhan2118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
